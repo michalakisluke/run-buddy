@@ -1,7 +1,7 @@
 # run-buddy
 
 ## Purpose
-A website that offers iftness training services
+A website that offers fitness training services
 
 ## Built with 
 * HTML
@@ -12,3 +12,5 @@ https://michalakisluke.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Luke Michalakis
+
+### ©️2019 Run Buddy, Inc 
